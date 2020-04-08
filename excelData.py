@@ -2,7 +2,7 @@ import csv
 import string
 import random
 from collections import defaultdict
-arquivo = open('1617FedSchoolCodeList.xlsx', encoding = "ISO-8859-1")
+arquivo = open('1617FedSchoolCodeList.xlsx - 4th Quarter FSC.csv', encoding = "ISO-8859-1")
 
 lines = arquivo.readlines()
 
